@@ -1,6 +1,6 @@
 # Scriptum - Biblioteca Virtual
 
-<img src="./hackaton-logo.png" alt="Logo">
+<img src="./hackaton-logo.png" alt="Logo" width="50px">
 
 **Scriptum** é uma biblioteca virtual dedicada a incentivar a leitura e a promoção de obras de autores independentes e nacionais. Nosso objetivo é criar um ambiente digital onde leitores possam descobrir novos escritores e, ao mesmo tempo, proporcionar aos autores brasileiros um espaço para divulgar e compartilhar seus trabalhos com o mundo.
 
