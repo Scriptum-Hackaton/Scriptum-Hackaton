@@ -1,6 +1,6 @@
 # Scriptum - Biblioteca Virtual
 
-![Logo do Scriptum]([https://example.com/imagem-do-logo.png](https://media-gru2-2.cdn.whatsapp.net/v/t61.24694-24/491842619_1066959941920719_8410426835202057498_n.jpg?ccb=11-4&oh=01_Q5Aa1QHRkssnzhJ8_wRwLmRDkzQKq9SulJZ2TA49J6WTKYaDWA&oe=681CE931&_nc_sid=5e03e0&_nc_cat=110))
+![Logo do Scriptum](https://photos.fife.usercontent.google.com/pw/AP1GczPPxmcjeAA0J74CcgcS8H7waV6tB6oLH1oveFTthCnTbayrIzpMmE8=w640-h640-s-no-gm?authuser=0)
 
 **Scriptum** é uma biblioteca virtual dedicada a incentivar a leitura e a promoção de obras de autores independentes e nacionais. Nosso objetivo é criar um ambiente digital onde leitores possam descobrir novos escritores e, ao mesmo tempo, proporcionar aos autores brasileiros um espaço para divulgar e compartilhar seus trabalhos com o mundo.
 
